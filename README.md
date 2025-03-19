@@ -1,4 +1,5 @@
-## Hi there 👋
+## 大家好~
+我是Isaac，目前就讀國立台北大學 雙主修 企管系 & 統計系
 
 <!--
 **ISX901006/ISX901006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
