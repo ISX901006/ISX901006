@@ -1,17 +1,20 @@
-## 大家好~
-我是Isaac，目前就讀國立台北大學 雙主修 企管系 & 統計系
+# 🙋‍♂️ Hi, I'm Isaac!  
+🎓 BA & STAT student at National Taipei U as an Outstading Graduate 
+🧠 Passionate about AI, Data Science and Machine Learning    
 
-<!--
-**ISX901006/ISX901006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **AI/ML**：PyTorch, Transformers, Diffusers, LLM fine-tuning  
+- **資料處理與視覺化**：Pandas, Matplotlib, SQL, Tableau
+- **其他**：Git, Colab, VS Code, LaTeX
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [github.com/ISX901006](https://github.com/ISX901006)
+- Email: shangcheng.shih@gmail.com
+
 -->
