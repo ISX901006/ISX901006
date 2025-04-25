@@ -8,8 +8,8 @@
 ## 🛠️ Skills
 
 - **AI/ML**：PyTorch, Transformers, Diffusers, LLM fine-tuning  
-- **資料處理與視覺化**：Pandas, Matplotlib, SQL, Tableau
-- **其他**：Git, Colab, VS Code, LaTeX
+- **Data Visualization**：Pandas, Matplotlib, SQL, Tableau
+- **Others**：Git, Colab, VS Code, LaTeX
 
 ---
 
