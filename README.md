@@ -1,7 +1,9 @@
 # 🙋‍♂️ Hi, I'm Isaac!  
-🎓 BA & STAT student at National Taipei U as an Outstading Graduate 
+🎓 BA & STAT student at National Taipei University, recognized as an Outstanding Graduate 
 
 🧠 Passionate about AI, Data Science and Machine Learning    
+
+💼 Former Intern at Toyota Taiwan and Disney+ Division, Taiwan Mobile
 
 ---
 
