@@ -1,5 +1,6 @@
 # 🙋‍♂️ Hi, I'm Isaac!  
 🎓 BA & STAT student at National Taipei U as an Outstading Graduate 
+
 🧠 Passionate about AI, Data Science and Machine Learning    
 
 ---
