@@ -9,9 +9,10 @@
 
 ## 🛠️ Skills
 
-- **AI/ML**：PyTorch, Transformers, Diffusers, LLM fine-tuning  
-- **Data Visualization**：Pandas, Matplotlib, SQL, Tableau
-- **Others**：Git, Colab, VS Code, LaTeX
+* **Data Analysis & Machine Learning**：Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels, Exploratory Data Analysis (EDA), Data Mining, A/B Testing
+* **Data Visualization**：Matplotlib, Seaborn, Tableau, Plotly, Pandas Visualization, SQL (with data aggregation & joins)
+* **Programming & Tools**：Python, Colab, Jupyter Notebook, Git, VS Code, LaTeX
+* **Others**：SQL, Google Colab, Git version control, Report writing with LaTeX and Markdown
 
 ---
 
